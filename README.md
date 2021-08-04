@@ -21,16 +21,22 @@ We are a group of developers who meet regularly for standups. This gives us posi
   - Non participating members will get dropped from the group.  
 
 ## How to Scrum Master a meeting
-The Scrum Master
--   Keeps each standup to 10 minutes
--   Keeps each meeting to an hour
--   Facilitates any discussion that comes up.
+Each team member will take a turn being [Scrum Master](https://www.atlassian.com/agile/scrum/scrum-master).
+The Scrum Master's main job is to setup and faciliate the stand ups. Here are some points to keep in mind when you are acting as Scrum Master:
+-   Keeps each standup to about 10 minutes
+-   During each standup, each developer addresses 3 questions:
+  - What I worked on since the last stand up ...
+  - What challenges or road blocks have I come across ...
+    - In this section it is good to get feedback from the rest of the team to see if there is helpful feedback.
+  - What I goals are for the next sprint ...
+-   Keeps each meeting to about an hour
+-   Facilitates any other discussion that comes up.
 
 
 ## How we use Agile and Scrum
-We use and Agile framework for getting things done. Agile is the most used project management framework in software production. By using Agile we get exposure to industry best practices for team work. 
+We use and Agile framework called [Scrum](https://github.com/joaquinfox/accountability-team-manifest/blob/main/README.md) for getting things done. Agile is the most used project management framework in software production. By using Agile we get exposure to industry best practices for team work. 
 
-Agile comes in different flavors. We practice a particular version crafted for software production. It is called [Extreme Programming](http://www.extremeprogramming.org/)
+
 
 ## Goals
 
