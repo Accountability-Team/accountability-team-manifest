@@ -30,7 +30,7 @@ The Scrum Master
 ## How we use Agile and Scrum
 We use and Agile framework for getting things done. Agile is the most used project management framework in software production. By using Agile we get exposure to industry best practices for team work. 
 
-Agile comes in different flavors. We practice a particular version crafted for software production. It is called (Extreme Programming)http://www.extremeprogramming.org/`]
+Agile comes in different flavors. We practice a particular version crafted for software production. It is called (Extreme Programming)[`http://www.extremeprogramming.org/`]
 
 ## Goals
 
