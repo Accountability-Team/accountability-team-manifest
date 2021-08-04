@@ -1,7 +1,6 @@
 # Accountability Team 
 ## Description
-We are a group of developers who meet regularly for standups. This gives us positive social pressure to stay focused on our  
-goal of beconing professional developers.
+We are a group of developers who meet regularly for standups. This gives us positive social pressure to stay focused on our goal of becoming professional developers.
 
 ## Rules
 - We meet two times a month, on Google Meets
