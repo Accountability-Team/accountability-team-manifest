@@ -12,7 +12,7 @@ We are a group of developers who meet regularly for standups. This gives us posi
   - Tell us your goals for the next sprint?
 - Each standup takes up to 10 minutes.
 - We try to keep meetings to less than an hour in total length.
-- Each meeting is run by a Scrum master ( See "How to Scrum Master a mneetiing" below)
+- Each meeting is run by a Scrum master ( See "How to Scrum Master a meeting" below)
 - Every member has an equal say in setting procedures and direction for the group.
 - Every member participates in
   - slack chat.
@@ -35,7 +35,7 @@ The Scrum Master's main job is to setup and faciliate the stand ups. Here are so
 
 
 ## How we use Agile and Scrum
-We use and Agile framework called [Scrum](https://github.com/joaquinfox/accountability-team-manifest/blob/main/README.md) for getting things done. Agile is the most used project management framework in software production. By using Agile we get exposure to industry best practices for team work. 
+We use an Agile framework called [Scrum](https://github.com/joaquinfox/accountability-team-manifest/blob/main/README.md) for getting things done. Agile is the most used project management framework in software production. By using Agile we get exposure to industry best practices for team work. 
 
 
 
